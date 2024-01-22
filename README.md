@@ -2,4 +2,4 @@
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/screenshot.png "Desktop Demo")
+![vCard Desktop Demo](./website-demo-image/Screenshot.png "Desktop Demo")
