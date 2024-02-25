@@ -1,0 +1,7 @@
+# Jekyll configuration file
+
+# Specify the Jekyll version
+jekyll:
+  version: 4.2.0
+
+# Other Jekyll configurations can go here...
